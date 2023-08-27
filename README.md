@@ -95,3 +95,24 @@ With Adobe Stock, you have access to more than 140 million high-quality, royalty
 * This project was generated using the [AEM Project Archetype](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html).
 * This project relies on [AEM Core Components](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html).
 "# aem-project-repository" 
+
+
+## Added Examples
+
+* First Example
+* Second Example 
+* Policies: Component Policy, Template Policy
+
+### First Example
+
+First Example description text.
+
+### Second Example
+
+Second Example description text.
+
+### Policies: Component Policy, Template Policy
+
+Component policies are used to define the allowed components and their order in a container component. And are stored under the project structure in the following path: `ui.content/src/main/content/jcr_root/conf/<project-name>/settings/wcm/policies/<policy-name>`
+
+Template policies are used to define the allowed components and their order in a page template. And are stored under the project structure in the following path: `ui.content/src/main/content/jcr_root/conf/<project-name>/settings/wcm/templates/<template-folder-name>`
